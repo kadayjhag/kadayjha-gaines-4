@@ -16,6 +16,8 @@ img {
 
 .carousel-caption > p {
   color: black;
+  font-family: cursive;
+  font-size: 25px
 }
 
 
@@ -23,4 +25,17 @@ img {
   font-family: cursive;
 }
 
-#
+#mynames {
+  font-family: cursive;
+  color: blue;
+}
+.name-overlay {
+  position: absolute;
+  z-index: 2;
+  margin-right: 5%;
+  margin-left: 75%;
+  margin-top: 5%;
+}
+.contact1 {
+  font-family: cursive;
+}
